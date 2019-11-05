@@ -1,16 +1,21 @@
 _repo: Under-Honour-s-Flag_60604
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Evison, G. H.
     gutenberg_agent_id: '51047'
     url: http://www.gutenberg.org/2009/agents/51047
+covers:
+- cover_type: archival
+  image_path: 60604-h/images/cover.jpg
 creator:
   author:
     agent_name: Lisle, Eric
     gutenberg_agent_id: '51046'
     url: http://www.gutenberg.org/2009/agents/51046
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60604#Under-Honour-s-Flag
 gutenberg_issued: '2019-10-31'
 gutenberg_type: Text
 identifiers:
